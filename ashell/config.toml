@@ -4,4 +4,4 @@ center = ["WindowTitle"]
 right = ["SystemInfo", ["Tray", "Clock", "Privacy", "Settings"]]
 
 [appearance]
-style = "Grandient"
+style = "Solid"
